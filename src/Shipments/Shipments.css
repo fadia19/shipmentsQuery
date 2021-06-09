@@ -1,0 +1,21 @@
+.Shipments {
+  padding: 20px;
+}
+
+.Search_Containers {
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.Location_Container {
+  width: 50%;
+}
+
+.Outdate_Container {
+  width: 50%;
+}
+
+.form-group {
+  width: 50%;
+}
